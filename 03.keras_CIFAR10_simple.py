@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 IMG_CHANNELS = 3
 IMG_ROWS = 32
 IMG_COLS = 32
-
+ 
 #constant
 BATCH_SIZE = 128
 NB_EPOCH = 20
