@@ -70,4 +70,4 @@ if __name__ == "__main__":
     optimizer = SGD()
     model.compile(optimizer=optimizer, loss='categorical_crossentropy')
     out = model.predict(im)
-    print np.argmax(out) 
+    print np.argmax(out)
