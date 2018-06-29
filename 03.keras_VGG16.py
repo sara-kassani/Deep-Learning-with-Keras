@@ -71,3 +71,4 @@ if __name__ == "__main__":
     model.compile(optimizer=optimizer, loss='categorical_crossentropy')
     out = model.predict(im)
     print np.argmax(out)
+ 
