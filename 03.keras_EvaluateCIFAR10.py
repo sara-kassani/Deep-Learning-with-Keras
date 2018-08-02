@@ -1,4 +1,4 @@
-import numpy as np           
+import numpy as np            
 import scipy.misc
 from keras.models import model_from_json
 from keras.optimizers import SGD
